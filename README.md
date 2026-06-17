@@ -32,3 +32,9 @@
 
 * LeetCode #11: Container With Most Water
 * Longest Common Prefix
+
+## Day 5
+
+### Problems Solved 
+* Rotten eggs
+* Valid paranthesis 
